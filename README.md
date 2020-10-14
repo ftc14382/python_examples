@@ -48,6 +48,32 @@ pip install scikit-learn
 pip install scikit-image
 pip install opencv-python
 ```
+
+## Install an editor if you don't have one
+
+Download/install [notepad++, an editor](https://notepad-plus-plus.org/downloads). 
+   - Click the link "Notepad++7.8.9:Stand with Hong Kong".
+   - Scroll down to the "Downloads 64-bit x64" section and select "Installer"
+   - Save the file and then run it.
+   - Accept the defaults. You can optionally create a shortcut.
+   - **Don't** check the greyed out choice that mentions ``APPDATA``.
+
+## Install git if you haven't already
+
+Download/install [the git version control program](https://git-scm.com/download/win).
+   - Click the link ""64-bit Git for Windows Setup".
+   - Save and run the downloaded executable.
+   - Accept the defaults.   
+
+## Clone this repository
+
+In a powershell window:
+
+``` shell
+git clone https://github.com/ftc14382/python_examples.git
+```
+
+
 ## Further reading
 
 1. https://docs.opencv.org/master/d9/df8/tutorial_root.html
